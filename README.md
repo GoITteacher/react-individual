@@ -4,17 +4,13 @@
 
 ### Перша частина
 
-- Маршрутизація
-- Browser-router
-- Route Routes
-- Link NavLink
-- URL параметри
-- Вкладені маршрути
-- Індексні маршрути
+- Redux
+- Slice
+- Reducer
+- Actions
+- Selector
+- Redux Toolkit
 
 ### Друга частина
 
-- Програмна навігація
-- Рядок запиту
-- Об'єкт місцезнаходження
-- Розділення коду
+- Async Redux
